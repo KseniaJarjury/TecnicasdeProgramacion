@@ -1,2 +1,2 @@
 # TecnicasdeProgramacion
-Trabajo Practico
+Trabajo Practico Integrador
